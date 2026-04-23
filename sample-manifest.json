@@ -1,12 +1,12 @@
 {
-  "export_job_id": "69d00d03-944b-4cc5-bd2d-90f2a4c06600",
+  "export_job_id": "28360f82-e6f5-4335-be87-07263c07418f",
   "id_short": 534387,
-  "published_at": "2026-04-19T19:37:53Z",
+  "published_at": "2026-04-23T19:57:38Z",
   "repo_name": "restaurants-that-surged-20-in-transaction-velocity-this-quarter-in-michigan-us-sample-534387",
   "sample_asset_name": "beamstation_534387_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/534387/beamstation_534387_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 47,
-  "sample_sha256": "6118efb44c9405e4be0559c9839c71b582dcc4752e8481bdc889b3d8a0a5a3b4",
-  "sample_size_bytes": 132766,
-  "total_records": 478
+  "sample_records": 34,
+  "sample_sha256": "06226c176d59ddd50420d02cf181090903520c721b22bc8ff37f8656fd70df15",
+  "sample_size_bytes": 134136,
+  "total_records": 343
 }
